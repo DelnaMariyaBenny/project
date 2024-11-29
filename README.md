@@ -1,1 +1,1 @@
-# project
+This is a demo repositary.
